@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+TestResults/
+
+*.user
+*.suo
+*.cache
+*.pdb
+
+.vscode/
+
+DockerDesktop/
